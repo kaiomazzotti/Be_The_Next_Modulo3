@@ -1,0 +1,15 @@
+C:\Users\Letícia\Desktop\Be_The_Next módulo 3\ExercícioRevisãoPOO\ExercícioRevisãoPOO\bin\Debug\net6.0\ExercícioRevisãoPOO.exe
+C:\Users\Letícia\Desktop\Be_The_Next módulo 3\ExercícioRevisãoPOO\ExercícioRevisãoPOO\bin\Debug\net6.0\ExercícioRevisãoPOO.deps.json
+C:\Users\Letícia\Desktop\Be_The_Next módulo 3\ExercícioRevisãoPOO\ExercícioRevisãoPOO\bin\Debug\net6.0\ExercícioRevisãoPOO.runtimeconfig.json
+C:\Users\Letícia\Desktop\Be_The_Next módulo 3\ExercícioRevisãoPOO\ExercícioRevisãoPOO\bin\Debug\net6.0\ExercícioRevisãoPOO.dll
+C:\Users\Letícia\Desktop\Be_The_Next módulo 3\ExercícioRevisãoPOO\ExercícioRevisãoPOO\bin\Debug\net6.0\ExercícioRevisãoPOO.pdb
+C:\Users\Letícia\Desktop\Be_The_Next módulo 3\ExercícioRevisãoPOO\ExercícioRevisãoPOO\obj\Debug\net6.0\ExercícioRevisãoPOO.csproj.AssemblyReference.cache
+C:\Users\Letícia\Desktop\Be_The_Next módulo 3\ExercícioRevisãoPOO\ExercícioRevisãoPOO\obj\Debug\net6.0\ExercícioRevisãoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Letícia\Desktop\Be_The_Next módulo 3\ExercícioRevisãoPOO\ExercícioRevisãoPOO\obj\Debug\net6.0\ExercícioRevisãoPOO.AssemblyInfoInputs.cache
+C:\Users\Letícia\Desktop\Be_The_Next módulo 3\ExercícioRevisãoPOO\ExercícioRevisãoPOO\obj\Debug\net6.0\ExercícioRevisãoPOO.AssemblyInfo.cs
+C:\Users\Letícia\Desktop\Be_The_Next módulo 3\ExercícioRevisãoPOO\ExercícioRevisãoPOO\obj\Debug\net6.0\ExercícioRevisãoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Letícia\Desktop\Be_The_Next módulo 3\ExercícioRevisãoPOO\ExercícioRevisãoPOO\obj\Debug\net6.0\ExercícioRevisãoPOO.dll
+C:\Users\Letícia\Desktop\Be_The_Next módulo 3\ExercícioRevisãoPOO\ExercícioRevisãoPOO\obj\Debug\net6.0\refint\ExercícioRevisãoPOO.dll
+C:\Users\Letícia\Desktop\Be_The_Next módulo 3\ExercícioRevisãoPOO\ExercícioRevisãoPOO\obj\Debug\net6.0\ExercícioRevisãoPOO.pdb
+C:\Users\Letícia\Desktop\Be_The_Next módulo 3\ExercícioRevisãoPOO\ExercícioRevisãoPOO\obj\Debug\net6.0\ExercícioRevisãoPOO.genruntimeconfig.cache
+C:\Users\Letícia\Desktop\Be_The_Next módulo 3\ExercícioRevisãoPOO\ExercícioRevisãoPOO\obj\Debug\net6.0\ref\ExercícioRevisãoPOO.dll
