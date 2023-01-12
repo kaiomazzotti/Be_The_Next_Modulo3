@@ -9,3 +9,7 @@ Uma classe Pessoa, com atributos nome e idade, e métodos Cumprimentar e DizerId
 Crie uma Pessoa e faça ela Cumprimentar e DizerIdade;
 Crie um Aluno de 21 anos, e faça ele IrParaEscola, Cumprimentar e DizerIdade;
 Crie um Professor de 30 anos, e faça ele Cumprimentar, DizerIdade e Explicar sobre um determinado assunto.
+
+####Realize a implementação utilizando classe abstrata.
+
+Vide Diagrama POO classe abstrata.
